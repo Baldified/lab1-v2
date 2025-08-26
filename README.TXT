@@ -53,8 +53,9 @@ this is an edited part
 ************* ANSWERS TO THE QUESTIONS *************
 
 Part 3 (Figures)
-2. Q- What happens if you call moveDown twice? A- It makes the object move downwards twice at a certain distance.
-   Q- Or three times? A- It moves thrice instead of twice
-   Q- What happens if you call makeInvisible twice? A- It just goes invisible
+2. Q- What happens if you call moveDown twice?      A- It makes the object move downwards twice at a certain distance.
+   Q- Or three times?     A- It moves thrice instead of twice
+   Q- What happens if you call makeInvisible twice?     A- It just goes invisible
 
+3. Q- Invoke the changeColor method, and write the color into the parameter field without the quotes. What happens?     A- It says Error: cannot find symbol -  variable blue
 
