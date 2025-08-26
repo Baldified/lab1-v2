@@ -46,3 +46,15 @@ to draw a picture. It can be used to experiment with coding.
 
 
 this is an edited part
+
+
+
+
+************* ANSWERS TO THE QUESTIONS *************
+
+Part 3 (Figures)
+2. Q- What happens if you call moveDown twice? A- It makes the object move downwards twice at a certain distance.
+   Q- Or three times? A- It moves thrice instead of twice
+   Q- What happens if you call makeInvisible twice? A- It just goes invisible
+
+
