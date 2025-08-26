@@ -59,5 +59,6 @@ Part 3 (Figures)
 
 3. Q- Invoke the changeColor method, and write the color into the parameter field without the quotes. What happens?     A- It says Error: cannot find symbol -  variable blue
 
-9. Q- While you are doing this, write down what you have to do to achieve this. Could it be done in different ways?     A- First step is to generate a canvas along with all the shapes needed. 2nd you have to make all the added shapes visible to then manipulate their 
-      movement with the void commands moveLeft(), moveRight(), moveUp() or moveDown(). You can also use moveVertical(int distance) or moveHorizontal(int distance) to move the shapes at a more desirable distance.
+9. Q- While you are doing this, write down what you have to do to achieve this. Could it be done in different ways?     A- First step is to generate a canvas along with all the shapes needed. Second, you have to make all the added shapes visible to then manipulate their 
+      movement with the void commands moveLeft(), moveRight(), moveUp() or moveDown(). You can also use moveVertical(int distance) or moveHorizontal(int distance) to move the shapes at a more desirable distance. Third, you have to change the colors of the added shapes
+      by using void changeColor and typing out one of the supported colors in quotes into the parameter field. Now you have your desired art piece and yes it is possible to achieve this in different ways.
